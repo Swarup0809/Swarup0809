@@ -17,7 +17,7 @@
 
 ## 🛡️ About Me
 
-- Third-year **B.Tech CSE** student, building projects towards SOC, Blue Team, DFIR and Threat Intelligence roles
+- 4th-year **B.Tech CSE** student, building projects towards SOC, Blue Team, DFIR and Threat Intelligence roles
 - Currently preparing for **Blue Team Roles**, hands-on with CTFs, EDR analysis, and log-based detection
 - Built **Azure Wazuh SOC** — a cloud-hosted SIEM lab with VirusTotal integration for malicious file detection
 - Interested in how AI/ML techniques can be applied to security analytics and detection engineering
