@@ -26,23 +26,20 @@
 
 ## ⚙️ Currently Learning
 
+<div align="left">
+
+![Security+](https://img.shields.io/badge/CompTIA_Security+-Planned-203a43?style=for-the-badge)
+![Windows Forensics](https://img.shields.io/badge/Windows_%26_Linux_Forensics-Learning-2c5364?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security_(Azure)-Learning-203a43?style=for-the-badge)
+
+</div>
+
 ## 🎯 Career Focus
 
 `SOC Analysis` &nbsp; · &nbsp; `Blue Team Ops` &nbsp; · &nbsp; `DFIR` &nbsp; · &nbsp; `Vulnerability Management` &nbsp; · &nbsp; `Threat Intelligence`
 
 <br/>
 
-## 🎯 Career Focus
-
-<div align="left">
-
-![SOC](https://img.shields.io/badge/-SOC%20Analyst-0f2027?style=flat-square)
-![Blue Team](https://img.shields.io/badge/-Blue%20Team%20Ops-203a43?style=flat-square)
-![DFIR](https://img.shields.io/badge/-DFIR-2c5364?style=flat-square)
-![VAPT](https://img.shields.io/badge/-Vulnerability%20Management-0f2027?style=flat-square)
-![Threat Intel](https://img.shields.io/badge/-Threat%20Intelligence-203a43?style=flat-square)
-
-</div>
 
 <br/>
 
@@ -70,6 +67,7 @@ https://github.com/Swarup0809/Azure-Wazuh-SOC
 
 https://github.com/Swarup0809/Employee-Salary-Prediction
 
+
 **🌐 Trainee Background Verification Portal** — Secure web app for document upload, MCQ testing, and ID card generation.
 
 <br/>
@@ -77,8 +75,11 @@ https://github.com/Swarup0809/Employee-Salary-Prediction
 ## 💼 Experience 
 
 🔹 Cybercrime & Digital Forensics Intern — Andhra Pradesh Police 
+
 🔹 Cyber Security Intern — Hacker School 
+
 🔹 AI & Machine Learning Intern — IBM Edunet 
+
 🔹 Full Stack Intern — Rashtriya Ispat Nigam Limited (RINL)
 
 <br/>
