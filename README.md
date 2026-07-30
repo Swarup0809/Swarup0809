@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=T.R.J.%20Swarup%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Defensive%20Cybersecurity%20%7C%20Blue%20Team%20%7C%20DFIR%20%7C%20Threat%20Intel&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=T.R.J.%20Swarup%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Defensive%20Cybersecurity%20%7C%20Blue%20Team%20%7C%20DFIR%20%7C%20Threat%20Intelligence&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Swarup0809">
   <img src="https://readme-typing-svg.demolab.com/?lines=Blue+Team+%26+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Vulnerability+Management;Threat+Intelligence;Security+Monitoring&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=2C5364&vCenter=true&size=22"/>
@@ -36,7 +36,7 @@
 
 ## 🎯 Career Focus
 
-`SOC Analysis` &nbsp; · &nbsp; `Blue Team Ops` &nbsp; · &nbsp; `DFIR` &nbsp; · &nbsp; `Vulnerability Management` &nbsp; · &nbsp; `Threat Intelligence`
+`SOC Analyst` &nbsp; · &nbsp; `Blue Team Ops` &nbsp; · &nbsp; `Cybersecurity Engineer` &nbsp; · &nbsp; `DFIR` &nbsp; · &nbsp; `Threat Intelligence`
 
 <br/>
 
@@ -57,18 +57,19 @@
 
 **🛡️ Azure Wazuh SOC** — Cloud-hosted SIEM lab on Azure monitoring endpoints, analyzing security events, and validating detection techniques with VirusTotal integration for malicious file detection.
 
-➡️ **Repository:**
+  ➡️ **Repository:**
 
 https://github.com/Swarup0809/Azure-Wazuh-SOC
 
 **🤖 Employee Salary Prediction** — ML model deployed with Streamlit.
 
-➡️ **Repository:**
+  ➡️ **Repository:**
 
 https://github.com/Swarup0809/Employee-Salary-Prediction
 
-
-**🌐 Trainee Background Verification Portal** — Secure web app for document upload, MCQ testing, and ID card generation.
+**🌐 Trainee Background Verification Portal** 
+  
+  Secure web app for document upload, MCQ testing, and ID card generation.
 
 <br/>
 
