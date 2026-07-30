@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=T.R.J.%20Swarup%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Defensive%20Cybersecurity%20%7C%20Blue%20Team%20%7C%20DFIR%20%7C%20Threat%20Intel&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Swarup0809">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Blue+Team+%26+SOC+Analysis;Digital+Forensics+%26+Incident+Response;Vulnerability+Management;Threat+Intelligence;Building+the+Wazuh+SOC+Lab&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=2C5364&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Blue+Team+%26+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Vulnerability+Management;Threat+Intelligence;Security+Monitoring&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=2C5364&vCenter=true&size=22"/>
 </a>
 
 <br/>
@@ -28,9 +28,7 @@
 
 <div align="left">
 
-![CEH](https://img.shields.io/badge/CEH_v13-In_Progress-2c5364?style=for-the-badge)
 ![Security+](https://img.shields.io/badge/CompTIA_Security+-Planned-203a43?style=for-the-badge)
-![CCNA](https://img.shields.io/badge/CCNA-Planned-0f2027?style=for-the-badge)
 ![Windows Forensics](https://img.shields.io/badge/Windows_%26_Linux_Forensics-Learning-2c5364?style=for-the-badge)
 ![Cloud Security](https://img.shields.io/badge/Cloud_Security_(Azure)-Learning-203a43?style=for-the-badge)
 
@@ -54,6 +52,7 @@
 
 ## 🏆 Certifications & Programs
 
+- Certified Ethical Hacker (CEH)
 - Google Cybersecurity Professional Certificate
 - Cisco – Introduction to Modern AI
 - IBM – Artificial Intelligence Fundamentals
