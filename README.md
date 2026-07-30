@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 🛡️ Focused on **Defensive Cybersecurity**, **Blue Team Operations**, and **Security Monitoring**
 * 📜 **Certified Ethical Hacker (CEH)**
@@ -21,7 +21,7 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * CompTIA Security+
 * Windows & Linux Forensics
@@ -32,7 +32,7 @@
 
 ---
 
-## 🎯 Career Interests
+##  Career Interests
 
 * Blue Team Operations
 * Threat Detection and Incident Response
@@ -130,35 +130,36 @@ https://github.com/Swarup0809
 
 ## Security
 
-Wazuh
-SIEM
-Sysmon
-VirusTotal
-Burp Suite
-Wireshark
+Wazuh,
+SIEM,
+Sysmon,
+VirusTotal,
+Burp Suite,
+Wireshark,
 Nmap
 
 ---
 
 ## Programming
 
-Python
-Bash
-C
+Python,
+Bash,
+C,
 Java
 
 ---
 
 ## Operating Systems
 
-Linux
+Linux,
 Windows
 
 ---
 
 ## Cloud
 
-Azure
+Azure,
+
 AWS
 
 ---
@@ -166,10 +167,6 @@ AWS
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Swarup0809&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=Swarup0809&theme=github-dark&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swarup0809&theme=github-dark"/>
 
