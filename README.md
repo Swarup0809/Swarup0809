@@ -1,184 +1,170 @@
 <div align="center">
 
-# Hi, I'm **T. R. J. Swarup Reddy** 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=T.R.J.%20Swarup%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Defensive%20Cybersecurity%20%7C%20Blue%20Team%20%7C%20DFIR%20%7C%20Threat%20Intel&descAlignY=58&descSize=18" width="100%"/>
 
-### Defensive Cybersecurity • CEH • Blue Team • Network Security • AI for Cybersecurity
+<a href="https://github.com/Swarup0809">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Blue+Team+%26+SOC+Analysis;Digital+Forensics+%26+Incident+Response;Vulnerability+Management;Threat+Intelligence;Building+the+Wazuh+SOC+Lab&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=2C5364&vCenter=true&size=22"/>
+</a>
 
-*Passionate about building secure systems, investigating security incidents, and creating practical cybersecurity projects through hands-on learning.*
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Swarup0809&label=Profile%20Views&color=2c5364&style=flat"/>
+<img src="https://img.shields.io/github/followers/Swarup0809?label=Followers&style=flat&color=2c5364"/>
 
 </div>
 
----
+<br/>
 
-##  About Me
+## 🛡️ About Me
 
-* 🛡️ Focused on **Defensive Cybersecurity**, **Blue Team Operations**, and **Security Monitoring**
-* 📜 **Certified Ethical Hacker (CEH)**
-* ☁️ Designing and implementing practical security solutions through hands-on projects and environments.
-* 🔍 Exploring **Digital Forensics**, **Incident Response**, and **Threat Detection**
-* 🤖 Learning how **Artificial Intelligence** can improve cybersecurity operations and defense
-* 📚 Currently exploring **Windows Forensics** and **VAPT** while expanding my knowledge in blue team security and Threat Hunting.
+- Third-year **B.Tech CSE** student, building toward SOC Analysis, Blue Team, DFIR, Vulnerability Management, and Threat Intelligence roles
+- Currently preparing for **CEH v13**, hands-on with CTF labs, packet analysis, and log-based detection
+- Building **Azure Wazuh SOC** — a cloud-hosted SIEM lab with VirusTotal integration for malicious file detection
+- Interested in how AI/ML techniques can be applied to security analytics and detection engineering
 
----
+<br/>
 
-##  Currently Learning
+## ⚙️ Currently Learning
 
-* CompTIA Security+
-* Windows & Linux Forensics
-* Cloud Security (Azure)
-* Detection Engineering
-* Security Hardening
-* AI Applications in Cybersecurity
+<div align="left">
 
----
+![CEH](https://img.shields.io/badge/CEH_v13-In_Progress-2c5364?style=for-the-badge)
+![Security+](https://img.shields.io/badge/CompTIA_Security+-Planned-203a43?style=for-the-badge)
+![CCNA](https://img.shields.io/badge/CCNA-Planned-0f2027?style=for-the-badge)
+![Windows Forensics](https://img.shields.io/badge/Windows_%26_Linux_Forensics-Learning-2c5364?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security_(Azure)-Learning-203a43?style=for-the-badge)
 
-##  Career Interests
+</div>
 
-* Blue Team Operations
-* Threat Detection and Incident Response
-* Cloud Security
-* Security Monitoring and Endpoint Detection
-*  Digital Forensics (DFIR)
-* AI-driven Security Analytics
+<br/>
 
----
-## 🏆 Certifications
+## 🎯 Career Focus
 
-- Certified Ethical Hacker (CEH)
+<div align="left">
+
+![SOC](https://img.shields.io/badge/-SOC%20Analysis-0f2027?style=flat-square)
+![Blue Team](https://img.shields.io/badge/-Blue%20Team%20Ops-203a43?style=flat-square)
+![DFIR](https://img.shields.io/badge/-DFIR-2c5364?style=flat-square)
+![VAPT](https://img.shields.io/badge/-Vulnerability%20Management-0f2027?style=flat-square)
+![Threat Intel](https://img.shields.io/badge/-Threat%20Intelligence-203a43?style=flat-square)
+
+</div>
+
+<br/>
+
+## 🏆 Certifications & Programs
+
 - Google Cybersecurity Professional Certificate
 - Cisco – Introduction to Modern AI
-- IBM - Artificial Intelligence Fundamentals
-- Job Simulations: Mastercard, Tata, Datacom, Deloitte
+- IBM – Artificial Intelligence Fundamentals
+- Job Simulations: Mastercard · Tata · Datacom · Deloitte
 
-## 💼 Featured Project
+<br/>
 
-### 🛡️ Azure Wazuh SOC
+## 💼 Featured Projects
 
-Designed and deployed a cloud-hosted Security Operations Center using Azure and Wazuh SIEM to monitor endpoints, analyze security events, and validate defensive security techniques.
+<div align="left">
 
-➡️ **Repository:**
-https://github.com/Swarup0809/Azure-Wazuh-SOC
+<a href="https://github.com/Swarup0809/Azure-Wazuh-SOC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarup0809&repo=Azure-Wazuh-SOC&theme=dark&bg_color=0f2027&title_color=ffffff&text_color=c9d1d9&border_color=2c5364"/>
+</a>
+<a href="https://github.com/Swarup0809/Employee-Salary-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarup0809&repo=Employee-Salary-Prediction&theme=dark&bg_color=0f2027&title_color=ffffff&text_color=c9d1d9&border_color=2c5364"/>
+</a>
 
-### 🤖 Employee Salary Prediction
+</div>
 
-Machine Learning project deployed with Streamlit.
+**🛡️ Azure Wazuh SOC** — Cloud-hosted SIEM lab on Azure monitoring endpoints, analyzing security events, and validating detection techniques with VirusTotal integration for malicious file detection.
 
-➡️ **Repository:**
-https://github.com/Swarup0809/Employee-Salary-Prediction
+**🤖 Employee Salary Prediction** — ML model deployed with Streamlit.
 
-### 🌐 Trainee Background Verification Portal
+**🌐 Trainee Background Verification Portal** — Secure web app for document upload, MCQ testing, and ID card generation.
 
-Secure web application for trainee verification and document management.
-
----
+<br/>
 
 ## 💼 Experience
 
-🔹 Cyber Security Intern — Hacker School
+| Role | Organization |
+|---|---|
+| Cybersecurity Intern | Cybercrime & Digital Forensics, Andhra Pradesh Police |
+| AI & Machine Learning Intern | IBM Edunet |
+| Full Stack Intern | Rashtriya Ispat Nigam Limited (RINL) |
 
-🔹 Cybercrime & Digital Forensics Intern — Andhra Pradesh Police
+<br/>
 
-🔹 AI & Machine Learning Intern — IBM Edunet
+## 🛠️ Tools & Tech Stack
 
-🔹 Full Stack Intern — Rashtriya Ispat Nigam Limited (RINL)
+<div align="left">
 
----
-
-## 🤝 Let's Collaborate
-
-I'm always interested in collaborating on:
-
-* Open-source cybersecurity projects
-* Blue Team tooling
-* Detection engineering
-* Security automation
-* AI-powered cybersecurity solutions
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [swarupreddy08@gmail.com](mailto:swarupreddy08@gmail.com)
-
-💼 **LinkedIn:**
-https://www.linkedin.com/in/t-r-j-swarup-reddy-842154333/
-
-🐙 **GitHub:**
-https://github.com/Swarup0809
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
-
-</p>
-
-## Security
-
-Wazuh,
-SIEM,
-Sysmon,
-VirusTotal,
-Burp Suite,
-Wireshark,
-Nmap
-
----
-
-## Programming
-
-Python,
-Bash,
-C,
-Java
-
----
-
-## Operating Systems
-
-Linux,
-Windows
-
----
-
-## Cloud
-
-Azure,
-
-AWS
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swarup0809&theme=github-dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup0809&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-<div align="center">
-
-### *"Effective defense begins with an attacker's mindset. The better we understand how adversaries think, the better we can detect, respond to, and stop them."*
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+<br/>
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<br/>
+![Wazuh](https://img.shields.io/badge/-Wazuh-3AB0FF?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Swarup0809&show_icons=true&theme=dark&bg_color=0f2027&title_color=ffffff&text_color=c9d1d9&icon_color=2c5364&border_color=2c5364&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Swarup0809&theme=dark&background=0f2027&stroke=2c5364&ring=2c5364&fire=2c5364&currStreakLabel=ffffff&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup0809&layout=compact&theme=dark&bg_color=0f2027&title_color=ffffff&text_color=c9d1d9&border_color=2c5364&hide_border=true" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Swarup0809&theme=darkhub&no-frame=true&column=3&margin-w=10&margin-h=10" width="49%"/>
+
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swarup0809&theme=github-compact&bg_color=0f2027&color=ffffff&line=2c5364&point=ffffff&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:swarupreddy08@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/t-r-j-swarup-reddy-842154333/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Swarup0809">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<i>"Effective defense begins with an attacker's mindset. The better we understand how adversaries think, the better we can detect, respond to, and stop them."</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
