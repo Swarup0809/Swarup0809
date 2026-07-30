@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=T.R.J.%20Swarup%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Defensive%20Cybersecurity%20%7C%20Blue%20Team%20%7C%20DFIR%20%7C%20Threat%20Intelligence&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=T.R.J.%20Swarup%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Defensive%20Cybersecurity%20%7C%20Blue%20Team%20%7C%20CEH%20%7C%20Threat%20Intelligence&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Swarup0809">
   <img src="https://readme-typing-svg.demolab.com/?lines=Blue+Team+%26+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Vulnerability+Management;Threat+Intelligence;Security+Monitoring&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=2C5364&vCenter=true&size=22"/>
